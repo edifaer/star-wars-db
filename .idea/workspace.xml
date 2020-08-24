@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d118ea2-c0c0-4070-8252-78867b73be52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/.idea/react-kabzda-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/About.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/AboutContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/ProfileInfo/ProfileDataForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/About/ProfileInfo/ProfileStatusWithHooks.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Dialogs/DialogsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Dialogs/Message/MessageForm/MessageForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendCards/Card/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendCards/Card/Card.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendCards/Card/CarouselSlider/CarouselSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendCards/Card/CarouselSlider/CarouselSlider.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendCards/FriendCards.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendCards/FriendCards.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendCards/FriendCardsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/Friends.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/Friends.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/FriendsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/SearchPannel/SearchPannel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Friends/SearchPannel/SearchPannel.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/HeaderContent/HeaderContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/HeaderContent/HeaderContent.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/HeaderContent/HeaderContentContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Login/Login.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Media/Media.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Media/Media.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Navbar/NavbarContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Navbar/myPhoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/Aside/Aside.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/Aside/Aside.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/MyPosts/AddPostForm/PostForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/MyPosts/MyPostsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/Sidebar/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Profile/Sidebar/Sidebar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Users/User.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Users/Users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Users/Users.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/Users/UsersContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/common/FormsControls/FormsControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/common/FormsControls/FormsControls.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/common/FormsControls/FormsControlsCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/common/Paginator/Paginator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/common/Paginator/Paginator.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/common/Preloader/Preloader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/components/common/Preloader/Preloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/hoc/withAuthRedirect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/hoc/withSuspense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/app-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/auth-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/dialogs-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/friends-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/profile-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/redux-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/users-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/redux/users-selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IT-kamasutra/01-first-project/react-kabzda-1/src/utils/validators/validators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hooks/src/use-state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/book-list-item/book-list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/book-list-item/book-list-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/book-list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/book-list/book-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/book-list/book-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/book-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/bookstore-service-context/bookstore-service-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/bookstore-service-context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/error-boundry/error-boundry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/error-indicator/error-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/error-indicator/error-indicator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/hoc/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/hoc/with-bookstore-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/hoc/with-suspense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/pages/cart-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/pages/home-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/shop-header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/shop-header/shop-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/shop-header/shop-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/shopping-cart-table/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/shopping-cart-table/shopping-cart-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/shopping-cart-table/shopping-cart-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/spinner/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/components/spinner/spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/reducers/book-list-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/reducers/shopping-cart-refactor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/services/bookstore-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/utils/compose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../re-store/src/utils/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eJuZlJUp0vM5R9pwsevLc3zAZu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FutureWork\Udemy\star-db\src\components\pages" />
+      <recent name="D:\FutureWork\Udemy\star-db\src\components\random-planet" />
+      <recent name="D:\FutureWork\Udemy\star-db\src\services" />
+      <recent name="D:\FutureWork\Udemy\star-db\src\components\sw-components" />
+      <recent name="D:\FutureWork\Udemy\star-db\src\components\hoc-helpers" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d118ea2-c0c0-4070-8252-78867b73be52" name="Default Changelist" comment="" />
+      <created>1594052074566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594052074566</updated>
+      <workItem from="1594052077378" duration="7493000" />
+      <workItem from="1594120348161" duration="9618000" />
+      <workItem from="1594135255581" duration="3701000" />
+      <workItem from="1594163930767" duration="927000" />
+      <workItem from="1594204109766" duration="22689000" />
+      <workItem from="1594378909955" duration="4462000" />
+      <workItem from="1594467948916" duration="12439000" />
+      <workItem from="1594839297041" duration="2982000" />
+      <workItem from="1594977538834" duration="10213000" />
+      <workItem from="1595174996139" duration="7007000" />
+      <workItem from="1595942735669" duration="2035000" />
+      <workItem from="1598302747079" duration="1053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594310635629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1280.52.1280.984@0.0.1536.824" timestamp="1594310635629" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594052170814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1280.52.1280.984@0.0.1536.824" timestamp="1594052170814" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595941980287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1280.52.1280.984@0.0.1536.824" timestamp="1595941980287" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594164253937" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1595177680520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-1280.52.1280.984@0.0.1536.824" timestamp="1595177680520" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595941842456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1280.52.1280.984@0.0.1536.824" timestamp="1595941842456" />
+  </component>
+</project>
